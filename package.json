@@ -1,0 +1,28 @@
+{
+  "name": "getcountrycode-cli",
+  "version": "1.0.0",
+  "description": "Get Country Code",
+  "main": "index.js",
+  "dependencies": {
+    "country-list": "^2.2.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliMundher/getCountryCod-CLI.git"
+  },
+  "keywords": [
+    "Country",
+    "Code"
+  ],
+  "author": "Mundher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliMundher/getCountryCod-CLI/issues"
+  },
+  "homepage": "https://github.com/AliMundher/getCountryCod-CLI#readme"
+}
